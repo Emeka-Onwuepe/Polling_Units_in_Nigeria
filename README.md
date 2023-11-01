@@ -1,5 +1,5 @@
 # Nigeria Polling Units and Voting Structure Dataset
-A .csv dataset scrapped from IREV that contains the names and codes for 176,846 polling units in Nigeria with their respective wards, local governments, houses of reps, senatorial districts, and states.
+A .csv dataset scrapped from IREV that contains the names and codes for 176,846 polling units in Nigeria with their respective wards, local governments, house of reps, senatorial districts, and states.
 * 176,846 polling units
 * 8,787 wards
 * 774 Local Governments
@@ -20,5 +20,5 @@ It contains 176,846 rows and 13 columns
 10. **ward_des**: contains 8,787 wards with their ward codes and state names.
 11. **lg_des**: contains 774 local governments with their local government codes and state names.
 12. **senatorial**: contains 109 senatorial districts.
-13. **house_of_rep**: contains 360 houses of reps.
+13. **house_of_rep**: contains 360 house of reps.
 
